@@ -145,9 +145,9 @@ The hull and mechanical structure were refined through buoyancy testing, fabrica
 
 ## 6. Working Program & Control Algorithm
 
-The complete ESP32 control program used for the AQUA-SWEEP prototype is provided in:
+The complete ESP32 control program used for the AQUA-SWEEP prototype is provided here:
 
-`./code/`
+[`AQUA-SWEEP.ino`](./code/AQUA-SWEEP.ino)
 
 The firmware connects the ESP32 with the propulsion motor, motor driver, servo and sensors.
 
