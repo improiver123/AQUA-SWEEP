@@ -497,7 +497,11 @@ Major components and materials include:
 
 ## 16. Author
 
-**Krishna Deka**  
+**Krishna Deka** 
+ ; Jorhat Engineering College
+ ; Department of Mechanical Engineering 
+ , Batch of 2028 
+ 
 C/O Prof. U.S. Dixit  
 IIT Guwahati
 
