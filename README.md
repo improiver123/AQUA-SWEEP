@@ -549,6 +549,13 @@ SCALE THE SYSTEM
 
 ---
 
+## Project Report
+
+The complete project report documents the concept, ideation, design, fabrication, electronics, testing, working system and future development of AQUA-SWEEP.
+
+**[View the Complete Project Report](./AQUA-SWEEP_REPORT.pdf)**
+
+
 # AQUA-SWEEP
 
 ### From one floating robot to a scalable network of cooperating environmental robots.
