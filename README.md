@@ -71,7 +71,7 @@ CONNECT
     ↓
 COORDINATE
     ↓
-SCALE
+  SCALE
 ```
 
 The physical prototype is the **first experimental embodiment of this broader concept**, developed through research, modelling, fabrication, testing and repeated modification.
