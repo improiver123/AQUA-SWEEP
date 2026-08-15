@@ -561,3 +561,18 @@ The complete project report documents the concept, ideation, design, fabrication
 ### From one floating robot to a scalable network of cooperating environmental robots.
 
 **Concept → Abstraction → Prototype → Replication → Coordination → Scale**
+
+
+---
+
+## License & Intellectual Property
+
+© 2026 Krishna Deka. All rights reserved.
+
+AQUA-SWEEP is presented publicly as an engineering prototype and research project.
+
+The source code, documentation, designs, concepts, photographs and other original materials in this repository are provided for viewing and reference unless otherwise stated. No permission is granted to reproduce, modify, distribute, commercialise or create derivative works from the project materials without prior written permission.
+
+The publication of this repository does not constitute a patent grant or waiver of intellectual-property rights. Any future intellectual-property protection will be subject to applicable prior-art, novelty and patentability assessment.
+
+Third-party components, libraries and references remain subject to their respective licenses.
